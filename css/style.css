@@ -491,6 +491,10 @@ body {
   font-weight: 700;
 }
 
+.content {
+  padding-bottom: 57px;
+}
+
 .content a {
   display: flex;
   flex-direction: column;
